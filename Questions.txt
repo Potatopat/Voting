@@ -1,0 +1,28 @@
+Who should be the president of the United States?
+Barack Obama
+Mitt Romney
+Done
+Where should the government spend more money?
+Less Fortunate
+Education
+Military
+Done
+What is your plan to pay for college?
+Save
+Loans
+Borrow for Parents
+Not Going to College
+Done
+Do class sizes over 30 negatively impact your learning?
+Yes
+No
+Done
+Should we officially change our colors to black and gold?
+Yes
+No
+Done
+Are you planning on voting when you turn 18?
+Yes
+No
+Done
+

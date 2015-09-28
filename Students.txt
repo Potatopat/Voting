@@ -1,0 +1,4 @@
+student.lastName	student.firstName	student.studentNumber	student.grade
+Bartman	Alexandra	313264	9
+Bartman	Patrick	301111	12
+Eubanks	Courtney	305498	11
