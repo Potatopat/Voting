@@ -9,4 +9,4 @@ PURPOSE OF PROJECT: To Vote for Homecoming Themes and Class Hashtags
 VERSION or DATE: PBv1.0
 HOW TO START THIS PROJECT: Open "package.bluej" to run open up bluej. Then run "vote".
 AUTHORS: Patrick Bartman, HDJ Class of 2014
-USER INSTRUCTIONS: Contact me (Patrick Bartman) at 224-678-6145 or potatopat@comcast.net with any questions
+USER INSTRUCTIONS: Contact me (Patrick Bartman) at potatopat@comcast.net with any questions
