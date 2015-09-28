@@ -1,6 +1,0 @@
-student.studentNumber	student.lastName	student.firstName	student.gender	student.raceEthnicity	student.birthCountry	student.grade	student.activeToday	unweightedGPA.cumGPA	unweightedGPA.rank	unweightedGPA.out_of	cumGPA.cumGPA	customIdentity.birthPlace	mailingAddress.city	mailingAddress.zip	mailingAddress.county	done
-301111	Bartman	Patrick	M	4	2310	11	1	3.34375	171	565	4.96875	Hoffman Estates IL	Algonquin	60102	KANE	done
-305498	Eubanks	Courtney	F	6	2310	10	1	4	1	523	5.625	Cuba TWP IL	West Dundee	60118	KANE	done
-
-
-
